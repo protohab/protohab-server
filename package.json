@@ -1,0 +1,14 @@
+{
+  "name": "protohab-server",
+  "version": "1.0.0",
+  "description": "protohab official server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "protohab,ordm",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.1.1"
+  }
+}
